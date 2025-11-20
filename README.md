@@ -1,1 +1,1 @@
-# Practica2_Caso1
+# Practica2_EstructuraDatos
